@@ -1,0 +1,8 @@
+Name:Farhad Ahmed
+ID:1420354042:
+
+I did this project database part.
+Which included the "speadsheet.py" and SQL codes.Also using the xampp server.
+Firstly solve then design a ER diagram to this SLQ code.
+I have tested this database sql codes and table from my PC.
+speadsheet.py this just server connecting code and generate xlsx file.
